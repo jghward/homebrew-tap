@@ -5,8 +5,8 @@ class Vault < Formula
   desc "Secures, stores, and tightly controls access to secrets"
   homepage "https://vaultproject.io/"
   url "https://github.com/hashicorp/vault.git",
-      :tag      => "v1.1.0",
-      :revision => "36aa8c8dd1936e10ebd7a4c1d412ae0e6f7900bd"
+      :tag      => "v1.3.0",
+      :revision => "0f5c835d1cf91c00d01cb29a0048732d91357afa"
   head "https://github.com/hashicorp/vault.git"
 
   bottle do
